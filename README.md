@@ -1,4 +1,4 @@
-# Reto 20 - Angular
+# Reto 30 - Angular
 ## Trabajo Grupal
 Integrantes:
 - ARACELI PONCE SANGA
