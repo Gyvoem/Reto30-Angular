@@ -11,9 +11,10 @@ Integrantes:
 >> - Apellidos: Required y mínima dos apellidos
 >> - Email: Required, Email válido
 >> - Website: Required
+>> 
 ![image](https://github.com/Gyvoem/Reto30-Angular/blob/master/src/assets/RETO30.jpg)
 >
-> El proyecto esta compilado en la aplicación angular y realiza el despliegue en Firebase Hosting.
+>> El proyecto esta compilado en la aplicación angular y realiza el despliegue en Firebase Hosting.
 >
 >> Link FIREBASE: https://reto30-81874.web.app/
 > 
