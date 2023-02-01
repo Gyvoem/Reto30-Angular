@@ -15,7 +15,7 @@ Integrantes:
 >
 > El proyecto esta compilado en la aplicación angular y realiza el despliegue en Firebase Hosting.
 >
->> Link FAREBASE: https://reto30-81874.web.app/
+>> Link FIREBASE: https://reto30-81874.web.app/
 > 
 * * *
 
