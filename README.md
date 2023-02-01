@@ -1,4 +1,23 @@
-# Reto
+# Reto 20 - Angular
+## Trabajo Grupal
+Integrantes:
+- ARACELI PONCE SANGA
+- EDILT LUZ TORIBIO FLORES
+- MARWIN WLADIMIR GARAY MONTOYA
+- JHYM STONY HUALLA MUÑOZ
+* * *
+> El formulario de registro, cuenta con los siguientes campos y validaciones:
+>> - Nombre: Required, longitud mínima de 3 caracteres y máxima de 25.
+>> - Apellidos: Required y mínima dos apellidos
+>> - Email: Required, Email válido
+>> - Website: Required
+![image](https://github.com/Gyvoem/Reto30-Angular/blob/master/src/assets/RETO30.jpg)
+>
+> El proyecto esta compilado en la aplicación angular y realiza el despliegue en Firebase Hosting.
+>
+>> Link FAREBASE: https://reto30-81874.web.app/
+> 
+* * *
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
